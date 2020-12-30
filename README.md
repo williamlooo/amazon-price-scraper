@@ -1,4 +1,4 @@
-# amazon-scraper
+# amazon-price-scraper
 simple inventory price tracking utility with Selenium and Matplotlib.
 
 ## execution instructions (macOS, Linux)
