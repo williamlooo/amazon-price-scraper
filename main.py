@@ -15,7 +15,7 @@ options.add_argument("--disable-extensions")
 
 CHROMEDRIVER_PATH = "/"
 AMAZON_ITEM_URL_STRING = "https://www.amazon.com/dp/B07ZPC9QD4?ref=ods_ucc_kindle_B07ZPC9QD4_nrc_ucc"
-PICKLE_NAME = "airpod_prices"
+PICKLE_NAME = "airpod_prices.p"
 PLOT_FILENAME = "airpod_prices.png"
 
 
